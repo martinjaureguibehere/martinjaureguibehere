@@ -1,12 +1,12 @@
 # Welcome 👋
 
 
-I am Martin Jaureguibehere and this is my Git Hub, enjoy it😉
+**I am Martin Jaureguibehere and this is my Git Hub, enjoy it😉**
 
 **Studies:**
 
 
- Full Stack carreer at Coder House:
+ **Full Stack carreer at Coder House:**
  
  
  Web developer
@@ -46,6 +46,10 @@ React JS📚
 Firebase🧬
 
 Sass
+
+**Contact**
+
+mail: martinjaureguibehere96@gmail.com
 
 
  
