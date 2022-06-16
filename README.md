@@ -1,7 +1,7 @@
 # Welcome 👋
 
 
-I am Martin Jaureguibehere and this is my Git Hub, Enjoy it😉
+I am Martin Jaureguibehere and this is my Git Hub, enjoy it😉
 
 **Studies:**
 
@@ -9,41 +9,43 @@ I am Martin Jaureguibehere and this is my Git Hub, Enjoy it😉
  Full Stack carreer at Coder House:
  
  
- *Web developer
+ Web developer
  
  
- *Javascript
+ Javascript
  
  
- *React JS
+ React JS
  
  
- *Backend
+ Backend
  
  **Knowledge**
  
-*HTML🏷
+HTML🏷
 
 
-*CSS🎨
+CSS🎨
 
 
-*JAVASCRIPT💭
+JAVASCRIPT💭
 
 
-*GitHub👨🏼‍🤝‍👨🏼
+GitHub👨🏼‍🤝‍👨🏼
 
 
-*Bootstrap📚
+Bootstrap📚
 
 
-*Material UI📚
+Material UI📚
 
 
-*React JS📚
+React JS📚
 
 
-*Firebase🧬
+Firebase🧬
+
+Sass
 
 
  
