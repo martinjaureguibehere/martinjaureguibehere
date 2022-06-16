@@ -1,7 +1,7 @@
 ### Welcome 👋
 
-<!--
-I am Martin Jaureguibehere and this is my Git Hub, Enjoy it😉
+
+#I am Martin Jaureguibehere and this is my Git Hub, Enjoy it😉
 
 **Studies:**
  -Full Stack carreer at Coder House:
@@ -19,4 +19,4 @@ I am Martin Jaureguibehere and this is my Git Hub, Enjoy it😉
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
