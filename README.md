@@ -1,11 +1,17 @@
-### Hi there 👋
+### Welcome 👋
 
 <!--
-**martinjaureguibehere/martinjaureguibehere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Martin Jaureguibehere and this is my Git Hub, Enjoy it😉
 
-Here are some ideas to get you started:
+**Studies:**
+ -Full Stack carreer at Coder House:
+ -Web developer
+ -Javascript
+ -React JS
+ -Backend
 
-- 🔭 I’m currently working on ...
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
